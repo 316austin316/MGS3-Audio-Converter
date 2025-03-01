@@ -6,16 +6,10 @@
 - **Parses MTAF correctly**: It can correctly tell you thru print statements a breakdown of MTAF format.
 
 ## Current Status: Under Development
- **Important Note**: This tool is currently in development and is not fully functional. I am actively working on resolving issues to make the conversion process smooth and reliable.
+ **Important Note**: This tool is currently in development. Converting MTAF to Wav works but not the other way around yet.
  
 ## To Do
-1. **Fix MTAF to WAV Conversion**: The conversion process is almost complete, but requires additional work. The challenge lies in translating C code into Python, which is proving to be a complex task.
+1. **Fix MTAF to WAV Conversion**: The conversion process is complete! 2025 Update, will update code later
 2. **Support VAG Files and Other MGS3 Audio Formats**: Expand the tool's capabilities to handle VAG files and additional audio formats used in MGS3.
-3. **Implement Reimport Features**: Develop functionality to allow users to reimport edited audio back into the game.
+3. **Implement Reimport Features**: Develop functionality to allow users to reimport edited audio back into the game  (WIP having issues)
 4. **SDT Container Support**: Plan to support SDT containers in a future update (to be tackled later).
-
-## Contribution
-I welcome contributions from the community. If you have experience in audio programming or are familiar with the MGS3 audio formats, your input can be invaluable in improving this tool.
-
-## Acknowledgments
-A special thanks to the MGS community and all contributors to this project.
